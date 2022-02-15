@@ -1,0 +1,68 @@
+﻿{
+	"estudiante":[
+	 
+		 {"nombre":"Mateo",
+		  "apellido":"Garzon",
+		  "edad":15, 
+		  "codigo":"0001",
+		  "email":"mateogarzon15@colegio.edu.co",
+		  "nota":3.2},
+
+		  {"nombre":"Jose",
+		  "apellido":"Lopez",
+		  "edad":14, 
+		  "codigo":"0002",
+		  "email":"joselopez14@colegio.edu.co",
+		  "nota":2.9},
+
+		  {"nombre":"Ana",
+		  "apellido":"Rojas",
+		  "edad":15, 
+		  "codigo":"0003",
+		  "email":"anarojas15@colegio.edu.co",
+		  "nota":3.8},
+
+		   {"nombre":"Juan",
+		  "apellido":"Pacheco",
+		  "edad":13, 
+		  "codigo":"0004",
+		  "email":"juanpacheco13@colegio.edu.co",
+		  "nota":4.3},
+	  
+		  {"nombre":"Pepito",
+		  "apellido":"Perez",
+		  "edad":16, 
+		  "codigo":"0005",
+		  "email":"pepitoperez16@colegio.edu.co",
+		  "nota":1.5},
+
+		  {"nombre":"Andrea",
+		  "apellido":"Rodriguez",
+		  "edad":15, 
+		  "codigo":"0006",
+		  "email":"andrearodriguez15@colegio.edu.co",
+		  "nota":3.4},
+
+		  {"nombre":"Daniela",
+		  "apellido":"Torres",
+		  "edad":13, 
+		  "codigo":"0007",
+		  "email":"danielatorres13@colegio.edu.co",
+		  "nota":3.0},
+
+		  {"nombre":"Carlos",
+		  "apellido":"Vargas",
+		  "edad":14, 
+		  "codigo":"0008",
+		  "email":"carlosvargas14@colegio.edu.co",
+		  "nota":1.9},
+
+		  {"nombre":"Diana",
+		  "apellido":"Flores",
+		  "edad":13, 
+		  "codigo":"0009",
+		  "email":"dianaflores13@colegio.edu.co",
+		  "nota":2.4}
+
+	 ]
+}
